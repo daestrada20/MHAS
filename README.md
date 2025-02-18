@@ -79,3 +79,8 @@ Our analytical approach uses multi-level modeling to examine:
 ## Usage
 
 The data processing script creates a longitudinal dataset (`mhas_cd`) that can be used for statistical analysis in R or exported to other statistical software like SAS for multilevel modeling.
+
+## ABOUT MHAS
+
+For more information related to the Mexican Health and Aging Study, please visit https://www.mhasweb.org/Home/index.aspx 
+Wong, R., Michaels-Obregon, A., & Palloni, A. (2017). Cohort profile: the Mexican health and aging study (MHAS). International journal of epidemiology, 46(2), e2-e2. 
